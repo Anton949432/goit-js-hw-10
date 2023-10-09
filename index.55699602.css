@@ -1,0 +1,2 @@
+.loader{height:12px;width:80%;border:1px solid #fff;border-radius:10px;display:none;position:relative;overflow:hidden}.loader:after{content:"";width:40%;height:100%;box-sizing:border-box;background:#ff3d00;animation:animloader 2s linear infinite;position:absolute;top:0;left:0}@keyframes animloader{0%{left:0;transform:translate(-100%)}to{left:100%;transform:translate(0%)}}
+/*# sourceMappingURL=index.55699602.css.map */
