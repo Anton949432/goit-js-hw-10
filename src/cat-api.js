@@ -1,4 +1,6 @@
 import axios from "axios";
+export { fetchBreeds, fetchCatByBreed };
+
 
 const apiKey = "live_ZwO4Itm2tvoYglv1OdqwyNS8WicONyiaCXOiReLWPTwIdbWS3MvzZ2x5SerJtlVy";
 
